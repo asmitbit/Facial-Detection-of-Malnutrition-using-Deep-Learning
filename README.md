@@ -1,6 +1,9 @@
 # Malnutrition Detection Using Facial Analysis  
-*A Summer Internship Project by Asmit Adesh, Abhigyan Sharma, and Sumit Kumar (BIT Mesra)*
-
+*A Summer Internship Project by 
+Asmit Adesh - BTECH/10367/22,
+Sumit Kumar  - BTECH/10706/22
+Abhigyan Sharma - BTECH/10148/22)*
+FROM BIT MESRA,RANCHI
 ---
 ![Screenshot 1](Screenshot%202025-07-22%20201711.png)
 
@@ -118,7 +121,6 @@ We initially experimented with **Albumentations**, but switched to `ImageDataGen
 ---
 
 ## **Future Work**
-- Develop a **Streamlit web app** for real-time predictions.
 - Gather a **larger, balanced dataset** to further improve performance.
 - Implement **Grad-CAM (Explainable AI)** to visualize key facial regions contributing to predictions.
 
@@ -130,9 +132,11 @@ We initially experimented with **Albumentations**, but switched to `ImageDataGen
 - **Sumit Kumar** — Documentation, Dataset Management & Testing
 
 ---
-We plan to developed a **Streamlit-based web frontend** for this project to make it user-friendly:
+We developed a **Streamlit-based web frontend** for this project to make it user-friendly:
 - **Upload Interface:** Users will be able to upload a child’s image.
 - **Real-Time Prediction:** The model will classify the image as "Healthy" or "Malnourished."
 - **Visualization:** Display the prediction confidence score and possibly use **Grad-CAM** to highlight important facial regions.
 - **Deployment:** We will host the Streamlit app (using Streamlit Cloud or Vercel).
 
+**Acknowledgments**  
+We would like to express our heartfelt gratitude to **Prof. Akriti Nigam** (BIT Mesra) for her invaluable guidance, continuous support, and kindness throughout the course of this project. Her encouragement and insightful suggestions were instrumental in shaping our work.
