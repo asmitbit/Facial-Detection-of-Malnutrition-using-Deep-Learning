@@ -1,9 +1,12 @@
 # Malnutrition Detection Using Facial Analysis  
-*A Summer Internship Project by 
-Asmit Adesh - BTECH/10367/22,
-Sumit Kumar  - BTECH/10706/22
-Abhigyan Sharma - BTECH/10148/22)*
-FROM BIT MESRA,RANCHI
+
+*A Summer Internship Project by*  
+**Asmit Adesh** - BTECH/10367/22,  
+**Sumit Kumar** - BTECH/10706/22,  
+**Abhigyan Sharma** - BTECH/10148/22  
+
+FROM **BIT Mesra, Ranchi**
+
 ---
 ![Screenshot 1](Screenshot%202025-07-22%20201711.png)
 
