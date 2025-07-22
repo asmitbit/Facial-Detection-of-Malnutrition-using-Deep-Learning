@@ -2,6 +2,8 @@
 *A Summer Internship Project by Asmit Adesh, Abhigyan Sharma, and Sumit Kumar (BIT Mesra)*
 
 ---
+![Screenshot 1](Screenshot%202025-07-22%20201711.png)
+
 
 ## **Project Overview**  
 This project focuses on building a **Deep Learning-based model** to detect malnutrition in children using **facial images**. The aim was to create a **binary classification system** (Healthy vs. Malnourished) that could assist in early identification of malnourishment, especially in rural and underprivileged areas.
@@ -27,6 +29,7 @@ This project focuses on building a **Deep Learning-based model** to detect malnu
   We added ~100 extra images given by our faculty mentor.
 - **Manual Cleaning:**  
   Images were manually verified and cleaned for quality.
+  ![Screenshot 2](Screenshot%202025-07-22%20202630.png)
   
 **Dataset Structure:**
 dataset/
