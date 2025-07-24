@@ -131,7 +131,7 @@ We initially experimented with **Albumentations**, but switched to `ImageDataGen
 
 ## **Contributors**
 - **Asmit Adesh** — ML Model Development, Data Collection & Training,Model Training&Testing
-- **Abhigyan Sharma** —  UI Design
+- **Abhigyan Sharma** —  UI Design,Training and testing
 - **Sumit Kumar** — Documentation, Dataset Management & Testing
 
 ---
