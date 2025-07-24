@@ -50,6 +50,7 @@ We split the dataset into **train, validation, and test sets**:
 - **Training:** 615 images (70%)
 - **Validation:** 153 images (15%)
 - **Testing:** 194 images (15%)
+![Screenshot 3](Screenshot%2025-07-24%132456.png)
 
 This ensures balanced training and unbiased testing.
 
