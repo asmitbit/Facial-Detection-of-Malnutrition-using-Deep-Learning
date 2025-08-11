@@ -98,6 +98,9 @@ We initially experimented with **Albumentations**, but switched to `ImageDataGen
 - Plotted **Training vs. Validation Accuracy and Loss** curves.
 - Generated a **Confusion Matrix** to measure class-level performance.
 - Achieved **~90% test accuracy** using the initial trained MobileNetV2 model.
+![screenshot5](./Screenshot%202025-08-11%20224025.png)  
+![screenshot6](./Screenshot%202025-08-11%20225807.png)  
+ 
 
 ---
 
@@ -114,13 +117,15 @@ We initially experimented with **Albumentations**, but switched to `ImageDataGen
 - **Data Tools:** ImageDataGenerator, Custom Augmentation Pipelines
 
 ---
-
+![screenshot7](./Screenshot%202025-08-11%20230533.png)  
+![screenshot8](./Screenshot%202025-08-11%20231056.png) 
 ## **Results**
 - **Best Test Accuracy:** **90.21%**
 - **Validation Accuracy:** ~85%
 - **Loss (Test):** 0.2148
 
 ---
+![Screenshot 5](Screenshot 2025-08-11 224025.png)
 
 ## **Future Work**
 - Gather a **larger, balanced dataset** to further improve performance.
